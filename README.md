@@ -1,9 +1,9 @@
 <h3 align="center">
-  Welcome to My Github!
+  Greetings, welcome to My Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Greetings github! My name is <b>Mahdy Syafiqa J</b> </br>
+My name is <b>Mahdy Syafiqa J</b> </br>
 Graduated student of Engineering Physics from Telkom University, Indonesia.
 
 ## 📊 Github stats
