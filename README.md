@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Greetings github! my name is Mahdy Syafiqa J
+Greetings github! my name is Mahdy Syafiqa J </br>
 Graduated student of Engineering Physics from Telkom University
 
 ## 📊 Github stats
