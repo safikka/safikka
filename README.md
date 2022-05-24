@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-My name is Mahdy Syafiqa J. I am currently an undergraduate student of Engineering Physics at Telkom University. I am a Hardware Engineer.
+My name is Mahdy Syafiqa J. Graduated student of Engineering Physics from Telkom University
 
 ## 📊 Github stats
   <a href="https://github.com/safikka/github-readme-stats"><img alt="safikka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=safikka&show_icons=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
