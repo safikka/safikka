@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Greetings
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 
 <div align="center">
   My name is <b>Mahdy Syafiqa J</b> </br>
