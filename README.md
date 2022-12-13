@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  My name is <b>Mahdy Syafiqa J</b> </br>
+  My name is <b>Mahdy Syafiq</b> </br>
   Graduated student of Engineering Physics from Telkom University, Indonesia.
 </div>
 
