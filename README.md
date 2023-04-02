@@ -6,6 +6,7 @@
 <div align="center">
   My name is <b>Mahdy Syafiq</b> </br>
   Graduated student of Engineering Physics from Telkom University, Indonesia.
+  Interest in C and Electronics
 </div>
 
 ##
