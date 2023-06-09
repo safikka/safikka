@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdy Syafiqa J.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safikka&label=Profile%20views&color=0e75b6&style=flat" alt="safikka" /> </p>
-My name is Mahdy Syafiqa J, I'm Indonesian and i do like Tahu-Tek (Tofu with Petis Sauce)<br/>
-Highly motivated graduate looking for opportunities in __Software Engineering__ <br/>
+I'm Indonesian and i do like Tahu-Tek (Tofu with Petis Sauce)<br/>
 
 <div align="center">
   </br>
