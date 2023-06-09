@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdy Syafiqa J.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safikka&label=Profile%20views&color=0e75b6&style=flat" alt="safikka" /> </p>
-My name is Mahdy Syafiqa J, I'm Indonesian and i do like Electronics. Front-End using JavaScript primarily React Framework, with Back-End primarily Go Language and NodeJS. <br/><br/>
+My name is Mahdy Syafiqa J, I'm Indonesian and i do like Tahu-Tek (Tofu with Petis Sauce).<br/><br/>
 Highly motivated graduate looking for opportunities in **Software Engineering**. <br/>
 
 <div align="center">
