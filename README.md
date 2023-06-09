@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahdy Syafiqa J.</h1>
+<h1 align="center">Hi 👋 I'm Mahdy Syafiqa</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safikka&label=Profile%20views&color=0e75b6&style=flat" alt="safikka" /> </p>
-I'm Indonesian and i do like Tahu-Tek (Tofu with Petis Sauce)<br/>
+<div align="center">I'm Indonesian and i do like Tahu-Tek (Tofu with Petis Sauce)</div><br/>
 
 <div align="center">
   </br>
